@@ -1,9 +1,9 @@
 # COVID-19 in Thakurgaon
 
-## About Dataset
+## Dataset
 This dataset contains information about COVID-19 positive cases, recovered cases and death cases of Thakurgaon in both Zila level and Upazila level.
 
-## Data Collection Methodology
+### Data Collection Methodology
 The data was collected from the updates posted by the Civil Surgeon of Thakurgaon.
 
 ### Description of the Data
@@ -59,7 +59,7 @@ The dataset contains one CSV file containing 10 columns(Date, Total Cases, Thaku
   </tr>
 </table>
 
-## Authors
+## Author
 * **Md. Mehedi Hasan**
 
 **Note from the author:** I did some analysis and wrote an article based on that analysis. You can find the article [here](https://www.linkedin.com/pulse/analysis-covid-19-situation-thakurgaon-mehedi-hasan/?trackingId=mOVeSmDkRrirwWSPhVFt1g%3D%3D).
