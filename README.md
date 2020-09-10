@@ -59,6 +59,12 @@ The dataset contains one CSV file containing 10 columns(Date, Total Cases, Thaku
   </tr>
 </table>
 
+### Missing Data
+
+Some data are filled by "NT", that means "No Test". Because no sample was tested on those days due to some technical and other reasons. 
+Some data are filled by "NA", that means "Not Available". Becasue they werer not found.
+
+
 ## Author
 * **Md. Mehedi Hasan**
 
