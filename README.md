@@ -4,7 +4,7 @@
 This dataset contains information about COVID-19 positive cases, recovered cases and death cases of Thakurgaon in both Zila level and Upazila level.
 
 ### Data Collection Methodology
-The data was collected from the updates posted by the Civil Surgeon of Thakurgaon.
+The data was collected from the updates posted by the Civil Surgeon Office of Thakurgaon on social media and validated by the Civil Surgeon.
 
 ### Description of the Data
 This dataset contains day to day count of positive cases, recovered cases and death cases stated from the day(11 April 2020) when the first corona positive case was found in the city. It also contains day to day count of positive cases of each Upazila(Thakurgaon Sadar, Baliadangi, Pirganj, Ranisankail and  Haripur). There are data of 145 days from 11 April 2020 to 02 September 2020.
